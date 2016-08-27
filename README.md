@@ -1,2 +1,2 @@
 # Wrangle-OpenStreetMap-Data
-Chose a region and used data munging techniques to assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.
+The area I did the research is on brooklyn, New York, United States. The data is gotten from https://mapzen.com/data/metro-extracts/metro/brooklyn_new-york/
